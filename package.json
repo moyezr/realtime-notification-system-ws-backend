@@ -15,6 +15,7 @@
     "@types/jsonwebtoken": "^9.0.6",
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
+    "typescript": "^5.5.3",
     "ws": "^8.18.0"
   },
   "devDependencies": {
